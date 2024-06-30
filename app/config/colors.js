@@ -1,0 +1,26 @@
+const colors = {
+  primary: "#6C63FF",
+  primaryGradient: "#8982FF",
+  black: "#000000",
+  white: "#FFFFFF",
+  primaryTextColor: "#2F2E41",
+  lightGrey: "#E5E7EB",
+  darkGrey: "#717784",
+  chipLight: "#F4F4F4",
+  cardBorder: "#70707033",
+  transparent: "transparent",
+  primaryDark: "#079E5B",
+  fadeGrey: "#D9D9D9",
+  darkBlue: "#072D4B",
+  error: "#B22D1D",
+  primaryLight: "#EDF3F4",
+  fieldColor: "#F6F7F9",
+  red: "red",
+  borderLine: "#504F59",
+  primaryGrey: "#90A3BF",
+  primaryGreen: "#11D000",
+  darkGreen: "#138200",
+  cardColor: "#FAFAFA",
+};
+
+export default colors;
